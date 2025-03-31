@@ -1,0 +1,7 @@
+snscrape
+praw
+nltk
+streamlit
+wordcloud
+matplotlib
+pandas
